@@ -1,0 +1,76 @@
+[
+    {
+    	"name": "Human",
+    	"modifiers": [
+            {
+                "stat": "Base.Strength",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Endurance",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Notoriety",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Intelligence",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Mutant"
+    },
+    {
+        "name": "Bunker Dwarf",
+        "modifiers": [
+            {
+                "stat": "Base.Strength",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Endurance",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 1
+            }
+        ]
+    },
+    {
+    	"name": "Gamma Drow",
+    	"modifiers": [
+            {
+                "stat": "Base.Notoriety",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Intelligence",
+                "amount": 1
+            }
+        ]
+    }
+]

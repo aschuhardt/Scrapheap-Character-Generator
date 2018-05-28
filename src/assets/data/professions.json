@@ -1,0 +1,143 @@
+[
+	{
+		"name": "Mercenary Fighter",
+		"modifiers": [
+            {
+                "stat": "Base.Strength",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Endurance",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Ranged Weapons",
+                "amount": 2
+            },
+            {
+                "stat": "Combat.Melee",
+                "amount": 2
+            },
+            {
+                "stat": "Combat.Throwing",
+                "amount": 2
+            }
+        ]
+	},
+	{
+		"name": "Desert Stalker",
+		"modifiers": [
+            {
+                "stat": "Base.Endurance",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Notoriety",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 2
+            },
+            {
+                "stat": "Combat.Ranged Weapons",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Melee",
+                "amount": 1
+            }
+        ]
+	},
+	{
+		"name": "Wasteland Survivalist",
+		"modifiers": [
+            {
+                "stat": "Base.Endurance",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Ranged Weapons",
+                "amount": 3
+            },
+            {
+                "stat": "Combat.Medical",
+                "amount": 1
+            }
+        ]
+	},
+	{
+		"name": "Treasure Hunter",
+		"modifiers": [
+            {
+                "stat": "Base.Strength",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Endurance",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Intelligence",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Melee",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Throwing",
+                "amount": 3
+            },
+            {
+                "stat": "Combat.Medical",
+                "amount": 1
+            }
+        ]
+	},
+	{
+		"name": "Goods Smuggler",
+		"modifiers": [
+            {
+                "stat": "Base.Notoriety",
+                "amount": 2
+            },
+            {
+                "stat": "Base.Perception",
+                "amount": 1
+            },
+            {
+                "stat": "Base.Agility",
+                "amount": 1
+            },
+            {
+                "stat": "Combat.Melee",
+                "amount": 2
+            }
+        ]
+	}
+]

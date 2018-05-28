@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Base",
+        "stats": [
+            {
+                "name": "Strength",
+                "description": "",
+                "value": 0
+            },
+            {
+                "name": "Endurance",
+                "description": "",
+                "value": 0
+            },
+            {
+                "name": "Notoriety",
+                "description": "",
+                "value": 0
+            },
+            {
+                "name": "Perception",
+                "description": "",
+                "value": 0
+            },
+            {
+                "name": "Agility",
+                "description": "",
+                "value": 0
+            },
+            {
+                "name": "Intelligence",
+                "description": "",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Combat",
+        "stats": [
+            {
+                "name": "Ranged Weapons",
+                "value": 0
+            },
+            {
+                "name": "Melee",
+                "value": 0
+            },
+            {
+                "name": "Throwing",
+                "value": 0
+            },
+            {
+                "name": "Medical",
+                "value": 0
+            },
+            {
+                "name": "Throwing",
+                "value": 0
+            }
+        ]
+    }
+]
