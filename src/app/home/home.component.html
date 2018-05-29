@@ -10,8 +10,8 @@
 <select id="charProf" [(ngModel)]="character.profession" (change)="updateStats()">
 	<option [ngValue]="prof" *ngFor="let prof of professions">{{prof.name}}</option>
 </select>
-<br />
-<div *ngFor="let cat of character.statCategories">
+<br /
+><div *ngFor="let cat of character.statCategories">
 	<h3>{{cat.name}}</h3>
 	<ul>
 		<li *ngFor="let stat of cat.stats">
